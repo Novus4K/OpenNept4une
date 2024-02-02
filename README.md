@@ -91,7 +91,7 @@ When you access the eMMC, note the PCB / Main-board's version number, which will
 
 ### Installation:
 
-- See the [Releases](https://github.com/OpenNeptune3D/OpenNept4une/releases/) section for the latest pre-configured OpenNept4une eMMC Image. Flash with balenaEtcher or dd.
+- See the [Releases](https://github.com/OpenNeptune3D/OpenNept4une/releases/) section for the latest pre-configured OpenNept4une eMMC Image. Flash with [balenaEtcher] (https://github.com/balena-io/etcher/releases/latest) or dd.
 - Recommended to Back-Up original eMMC beforehand.
 - Run the following startup scripts with Ethernet connected (as user mks)
   
